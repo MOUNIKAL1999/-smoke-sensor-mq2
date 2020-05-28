@@ -1,5 +1,5 @@
 
-//Arduino Code – For Transmitter(transmiter code for smoke detector sensor (MQ-gas-sensor))
+//Arduino Code – For Transmitter(transmitter code for smoke detector sensor (MQ-gas-sensor))
 
 // To understand How nRF24l01 (teansceiver) interface with arduino this is the link [https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/].
 //this link shows how to download RF24 Arduino Library for nRF24L01.
